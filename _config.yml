@@ -4,7 +4,7 @@
 
 # Site
 title: Welcome to my site!
-subtitle: ''
+subtitle: 'This is my blog. I write whatever I can think of.'
 description: ''
 keywords:
 author: Liu FW
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: fluid
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
