@@ -1,9 +1,9 @@
-title: story of 帆上六结
+title: 我们是北师大二附中2026届6班
 subtitle: SHSBNU-2026-06
 description: ''
 keywords: null
 author: 北京师大二附中26届6班
-language: zh-cn
+language: zh
 timezone: ''
 url: https://lfw08.github.io
 permalink: ':year/:month/:day/:title/'
@@ -57,7 +57,7 @@ updated_option: mtime
 per_page: 10
 pagination_dir: page
 include: null
-exclude: null
+exclude: 
 ignore: 
 theme: icarus
 deploy:
