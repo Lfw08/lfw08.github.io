@@ -7,4 +7,4 @@ tags:
 *for more information or to submit images please contact:*
  email:[liufw666@outlook.com](mailto:liufw666@outlook.com)
 
-![P1000415](https://gitee.com/lfw08/gallery/raw/main/blog/hello-hexo.md/180330721255465.jpg)
+![P1000415](vx_images/371405622236706.jpg)
