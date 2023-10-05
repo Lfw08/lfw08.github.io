@@ -64,3 +64,9 @@ deploy:
   type: git
   repo: https://github.com/lfw08/lfw08.github.io
   branch: gh-pages
+github:
+  debug: true # enable debug to log github api request/response
+  user: Lfw08 # your github user name
+  timeout: 60000 # set the github api request timeout
+  token: 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 # enable Authorization for github api request, the api request limit will grow up from 60 to 5000
+  cache_dir: gh_cache
