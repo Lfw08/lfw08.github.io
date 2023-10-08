@@ -1,7 +1,7 @@
 # Version of the configuration file
 version: 5.1.0
 # Icarus theme variant, can be "default" or "cyberpunk"
-variant: default
+variant: cyberpunk
 # Path or URL to the website's logo
 logo: /img/logo.svg
 # Page metadata configurations
@@ -118,7 +118,7 @@ navbar:
 # Page footer configurations
 footer:
     # Copyright text
-    copyright: © 2019
+    copyright: © 2023
     # Links to be shown on the right of the footer section
     links:
         Creative Commons:
@@ -229,11 +229,11 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: Your name
+        author: SHSBNU-202606
         # Author title
         author_title: Your title
         # Author's current location
-        location: Your location
+        location: Beijing
         # URL or path to the avatar image
         avatar: 
         # Whether show the rounded avatar image
@@ -241,7 +241,7 @@ widgets:
         # Email address for the Gravatar
         gravatar: 
         # URL or path for the follow button
-        follow_link: https://github.com/ppoffice
+        follow_link: https://github.com/lfw08
         # Links to be shown on the bottom of the profile widget
         social_links:
             Github:
@@ -353,7 +353,7 @@ plugins:
         tracking_id: 
     # BuSuanZi site/page view counter
     # https://busuanzi.ibruce.info
-    busuanzi: false
+    busuanzi: true
     # CNZZ statistics
     # https://www.umeng.com/web
     cnzz:
@@ -369,7 +369,7 @@ plugins:
         # Theme of the popup. Can be "block", "edgeless", or "classic"
         theme: edgeless
         # Whether the popup should stay static regardless of the page scrolls
-        static: false
+        static: true
         # Where on the screen the consent popup should display
         position: bottom-left
         # URL to your site's cookie policy
