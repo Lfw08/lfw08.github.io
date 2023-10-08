@@ -59,7 +59,7 @@ pagination_dir: page
 include: null
 exclude: 
 ignore: 
-theme: butterfly
+theme: suka
 deploy:
   type: git
   repo: https://github.com/lfw08/lfw08.github.io
