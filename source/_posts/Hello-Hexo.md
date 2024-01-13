@@ -7,4 +7,6 @@ tags:
 *for more information or to submit images please contact:*
  email:[liufw666@outlook.com](mailto:liufw666@outlook.com)
 
-![P1000415](vx_images/371405622236706.jpg)
+![P1000415](https://gitee.com/lfw08/gallery/raw/main/posts/hello-hexo.md/371405622236706.jpg)
+
+![Designer](https://raw.githubusercontent.com/Lfw08/Gallery/main/posts/hello-hexo.md/322940501249671.jpg)
