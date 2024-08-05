@@ -1,0 +1,23 @@
+name: test-overviewer
+run-name: Overviewer Render
+on: [push]
+jobs:
+  render-overview:
+    runs-on: ubuntu-latest
+    env:
+      PYTHONPATH: /home/runner/work/lfw08.github.io/lfw08.github.io/overviewer_core
+    steps:
+
+    
+      
+      - uses: actions/checkout@v4
+      - run: ls
+      
+      
+
+
+      
+      
+      - run: pip3.10 install -r requirements.txt  
+      - run: sudo apt-get update && sudo apt-get install -y python3-pillow && python3.10 setup.py build && python3.10 overviewer.py -c config.py -p 10
+      
